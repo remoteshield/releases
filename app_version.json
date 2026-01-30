@@ -1,0 +1,9 @@
+{
+  "version": "1.6.3",
+  "sha256": "def456789012345678901234567890123456789012345678901234567890abcd",
+  "downloadUrl": "https://github.com/remoteshield/releases/releases/download/v1.6.3/RemoteShield_1.6.3_Setup.exe",
+  "changeLog": "Security improvements: hash verification for updates, private repo support. UI polish: app update modal, loading states.",
+  "minAppVersion": null,
+  "releaseDate": "2026-01-28",
+  "mandatory": false
+}
