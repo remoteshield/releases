@@ -1,6 +1,6 @@
 {
   "version": "1.6.4",
-  "sha256": "9F6E91666B05DC959A700644579BBA54472593F20367F1072ABE184D15EA9C58",
+  "sha256": "9f6e91666b05dc959a700644579bba54472593f20367f1072abe184d15ea9c58",
   "downloadUrl": "https://api.github.com/repos/remoteshield/releases/releases/assets/348861785",
   "changeLog": "1.6.4 | 2026-02-01 | Single instance mutex, removed password system, improved ExecutePanicMode with heuristic detection, added remote heuristic strings to ThreatDatabase, IPC timeout fix, uninstaller cleanup fix, WMI polling rate 1s, new icons. **Bug fixes:** Fixed mutex release crash on second instance, ExecutePanic now uses database heuristic fields (remotely updatable), added missing System.Collections.Generic import, updated stale version strings, removed dead password modal from UI.",
   "minAppVersion": "1.5.0",
