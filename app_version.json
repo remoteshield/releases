@@ -1,7 +1,7 @@
 {
   "version": "1.6.3",
   "sha256": "EEB185BEBEF69F537C5BF5A3C43D165B8AAE70A9F734F4C267832EC0BAF2D448",
-  "downloadUrl": "https://github.com/remoteshield/releases/releases/download/v1.6.3/RemoteShield_Setup.exe",
+  "downloadUrl": "https://github.com/remoteshield/releases/download/v1.6.3/RemoteShield_Setup.exe",
   "changeLog": "v1.6.3: Bug fixes for toggles, logs, and database updates. Added logs auto-refresh.",
   "minAppVersion": "1.6.0",
   "releaseDate": "2026-01-31"
