@@ -1,8 +1,8 @@
 {
-  "version": "1.6.3",
-  "sha256": "EEB185BEBEF69F537C5BF5A3C43D165B8AAE70A9F734F4C267832EC0BAF2D448",
+  "version": "1.6.4",
+  "sha256": "9F6E91666B05DC959A700644579BBA54472593F20367F1072ABE184D15EA9C58",
   "downloadUrl": "https://api.github.com/repos/remoteshield/releases/releases/assets/348861785",
-  "changeLog": "v1.6.3: Bug fixes for toggle persistence, Clear Logs, and database update file locking. Added logs auto-refresh, system tray color icons (green/yellow/red), and Lucy dedication.",
+  "changeLog": "1.6.4 | 2026-02-01 | Single instance mutex, removed password system, improved ExecutePanicMode with heuristic detection, added remote heuristic strings to ThreatDatabase, IPC timeout fix, uninstaller cleanup fix, WMI polling rate 1s, new icons. **Bug fixes:** Fixed mutex release crash on second instance, ExecutePanic now uses database heuristic fields (remotely updatable), added missing System.Collections.Generic import, updated stale version strings, removed dead password modal from UI.",
   "minAppVersion": "1.5.0",
-  "releaseDate": "2026-01-31"
+  "releaseDate": "2026-02-01"
 }
