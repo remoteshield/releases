@@ -1,7 +1,7 @@
 {
   "version": "1.6.5",
   "sha256": "FBE09C3A5E7D8771532DC419A6B33FBED490200E8702FCF53C3CFB92CD61C61E",
-  "downloadUrl": "https://api.github.com/repos/remoteshield/releases/releases/assets/348951474",
+  "downloadUrl": "https://api.github.com/repos/remoteshield/releases/releases/assets/351984826",
   "changeLog": "1.6.5 | 2026-02-07 | New LIGHT THEM GUI implemented, better contrast, new layout",
   "minAppVersion": "1.5.0",
   "releaseDate": "2026-02-01"
