@@ -1,7 +1,7 @@
 {
   "version": "1.6.9",
   "sha256": "DB99E38A07AF64C5E2ED8DE68154CF577A250C3D4FE99BE29CD17B3269EFCDC4",
-  "downloadUrl": "https://api.github.com/repos/remoteshield/releases/releases/assets/351984826",
+  "downloadUrl": "https://api.github.com/repos/remoteshield/releases/releases/assets/359912969",
   "changeLog": "1.6.9 | 2026-02-16 | Defender false positive fix, code review bug fixes (PID recycling, EnumWindows optimization, hardcoded product names), admin-free pause via IPC, polished icons.",
   "minAppVersion": "1.5.0",
   "releaseDate": "2026-02-16"
