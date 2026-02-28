@@ -1,7 +1,7 @@
 {
   "version": "1.7.0",
   "sha256": "601973287C4E25DE2B7353C2120D268EEF5845A690E50ED0E480B70E5F4C5796",
-  "downloadUrl": "https://api.github.com/repos/remoteshield/releases/releases/assets/359912969",
+  "downloadUrl": "https://api.github.com/repos/remoteshield/releases/releases/assets/363832385",
   "changeLog": "1.7.0 | 2026-02-28 | **Major refactor:** Split MainWindow.xaml.cs (1740 lines into 6 files) and RemoteShieldService.cs (972 lines into 4 files) using partial classes. **Security fixes:** SHA-256 verification now mandatory (missing hash = reject update), panic mode whitelist matches full path. **Reliability:** SCM calls moved off UI thread to prevent GUI freeze, heuristic cache has 24hr TTL + 500 entry cap to prevent unbounded growth, pattern updates are race-free (add-then-remove instead of clear-then-rebuild). **Features:** Heartbeat writing (60s interval), consolidated panic via IPC, whitelist operations via IPC. **Bugs fixed:** B12-B18, D6-D7, kill loop detector, sleep/resume WMI recovery, PowerShell build script Unicode fix.",
   "minAppVersion": "1.5.0",
   "releaseDate": "2026-02-28"
