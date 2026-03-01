@@ -1,8 +1,8 @@
 {
   "version": "1.7.1",
   "sha256": "4c4331ed1e7437367de58ac2a87a88d88ab6c79bdc82ba65eb9ce46225cf84a0",
-  "downloadUrl": "https://api.github.com/repos/remoteshield/releases/releases/assets/363832385",
-  "changeLog": "1.7.1 | 2026-03-01 | **Bug fixes:** B20 tray icon shows red (stopped) vs yellow (paused) correctly. B21 "Start Protection" now starts service via SCM when stopped instead of failing on IPC. B22 uninstaller removes .NET localization folders (cs/de/es/fr/it/ja/ko/pl/pt-BR/ru/tr/zh-Hans/zh-Hant). B23 scanner now has Kill/Kill All buttons for running threats. B24 whitelist add shows toast + clears input, remove shows confirmation dialog. B25 settings blocked apps shows duplicate detection + toast feedback.",
+  "downloadUrl": "https://api.github.com/repos/remoteshield/releases/releases/assets/364420074",
+  "changeLog": "1.7.1 | 2026-03-01 | **Bug fixes:** B20 tray icon shows red (stopped) vs yellow (paused) correctly. B21 Start Protection now starts service via SCM when stopped instead of failing on IPC. B22 uninstaller removes .NET localization folders (cs/de/es/fr/it/ja/ko/pl/pt-BR/ru/tr/zh-Hans/zh-Hant). B23 scanner now has Kill/Kill All buttons for running threats. B24 whitelist add shows toast + clears input, remove shows confirmation dialog. B25 settings blocked apps shows duplicate detection + toast feedback.",
   "minAppVersion": "1.5.0",
   "releaseDate": "2026-03-01"
 }
