@@ -2,7 +2,7 @@
   "version": "1.7.2",
   "sha256": "67e42ef24f19c2246f23564ec1a70744f9b6ce5dfa6e7b6239590d7be03e0a9b",
   "downloadUrl": "https://api.github.com/repos/remoteshield/releases/releases/assets/383293752",
-  "changeLog": "1.7.2 | 2026-03-28 | UI redesign: Replaced threats blocked card with live active system processes monitored count, added Protected since strip below safety tips, fixed notification bell red dot stuck on removed non-functional history chevrons/hover, fixed browse/add buttons showing as dots. ",
+  "changeLog": "1.7.2 | 2026-03-28 | UI redesign: Replaced threats blocked card with live active system processes monitored count added Protected since strip below safety tips fixed notification bell red dot stuck on removed non-functional history chevrons/hover fixed browse/add buttons showing as dots. ",
   "minAppVersion": "1.5.0",
   "releaseDate": "2026-03-28"
 }
