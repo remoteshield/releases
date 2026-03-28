@@ -1,7 +1,7 @@
 {
   "version": "1.7.2",
   "sha256": "67e42ef24f19c2246f23564ec1a70744f9b6ce5dfa6e7b6239590d7be03e0a9b",
-  "downloadUrl": "https://api.github.com/repos/remoteshield/releases/releases/assets/364420074",
+  "downloadUrl": "https://api.github.com/repos/remoteshield/releases/releases/assets/383293752",
   "changeLog": "1.7.2 | 2026-03-28 | UI redesign: Replaced "threats blocked" card with live "active system processes monitored" count, added "Protected since" strip below safety tips, fixed notification bell red dot stuck on (missing generic `.hidden` CSS), removed non-functional history chevrons/hover, fixed browse/add buttons showing as dots. Bug fixes: B26 Pause Protection no longer triggers UAC or fails (removed `sc.exe interrogate` gate, pure IPC now, 15min auto-resume is safety net). NSIS installer version synced to 1.7.2. Performance: WMI events now processed through bounded `Channel<T>` with `SemaphoreSlim(4)` instead of unbounded `Task.Run`. `EnumWindows` reuses static collections to reduce GC pressure. `ThreatDatabase.GetBlockedExeStems()` pre-computes scanner stems. Reliability: TamperProtection retries 3×500ms before firing `ExecutableLocked` (prevents AV false positives). Log rotation protected by cross-process named mutex. IPC timeout is now per-command (30s panic, 20s kill-all, 10s default).",
   "minAppVersion": "1.5.0",
   "releaseDate": "2026-03-28"
