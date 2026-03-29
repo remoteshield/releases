@@ -1,8 +1,8 @@
 {
-  "version": "1.7.2",
-  "sha256": "67e42ef24f19c2246f23564ec1a70744f9b6ce5dfa6e7b6239590d7be03e0a9b",
-  "downloadUrl": "https://api.github.com/repos/remoteshield/releases/releases/assets/383293752",
-  "changeLog": "1.7.2 | 2026-03-28 | UI redesign ",
+  "version": "1.7.3",
+  "sha256": "e9f5e4e3940739e6a6d6bba0ff292898919f428ffa9c25cb2db5b64e9229d91b",
+  "downloadUrl": "https://api.github.com/repos/remoteshield/releases/releases/assets/383898821",
+  "changeLog": "1.7.3 | 2026-03-29 | Bug fixes BNEW1 CancellationToken was reassigned after WMI consumer started  all background tasks now share one token created before any launch BNEW2 WMI event channel now completed on service stop for clean consumer exit BNEW3 Semaphore leak in WMI consumer fixed  removed cancellation token from TaskRun BNEW4 ConfigurationManagerLoadSettings now threadsafe wrapped in lock BNEW5 CLEAR_HISTORY JS action now has C handler delegates to ClearLogs BNEW6 NSIS SetAutoStart now includes minimized flag so first boot starts in tray BNEW7 OnStop now awaits background tasks up to 5s before returning BNEW8 CLI status command heartbeat parsing fixed was treating JSON as raw DateTime BNEW9 Blocked count now persisted in blocked_counttxt  survives log rotation Welcome popup repeating on Win7ACLlocked ProgramData  initialized now written to LocalAppData as fallback  JS session guard Security SEC1 GitHub PAT removed  repos now public update system uses rawgithubusercontentcom no auth SEC2 KillProcess IPC rejects PID  4 and critical system processes csrss lsass svchost etc Log rotation mutex now uses MutexSecurity ACL so both SYSTEM and standard users can acquire it Memory WMI ManagementObjectManagementObjectCollection disposal added in 5 methods across 3 files Performance PERF2 GetHistory cached with LastWriteTime check PERF4 Process count cached with 10s TTL Process objects disposed FE2 lucidecreateIcons removed from 3 hot paths updateStatus onHostMessage catchall showToast EnumWindows StringBuilder reused ConfigWatcher ignores blocked_counttxt Installer INS1 Uninstaller firewall cleanup covers Ammyy RemotePC Radmin INS2 ProgramData path uses PROGRAMDATA env var INS3 signtool td corrected WebView2 Evergreen Runtime bootstrapper autodetection and install Win78 support Installer creates initialized file during install elevated to prevent welcome popup ACL issue ",
   "minAppVersion": "1.5.0",
-  "releaseDate": "2026-03-28"
+  "releaseDate": "2026-03-29"
 }
