@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0",
-  "sha256": "8a420d34752c8cecb30ecbb5808fbf09436dad466f11735282f183a0361135e5",
-  "downloadUrl": "https://api.github.com/repos/remoteshield/releases/releases/assets/388361366",
-  "changeLog": "2.0.0 | 2026-04-04 | 30-day trial+annual subscription via in-app Stripe checkout (no browser redirect, no license keys). LicenseManager.cs: trial tracking, online validation, machine ID binding, 7-day offline grace. Service gates all monitoring behind license check (IPC always active for activation). WebView2 intercepts Stripe success/cancel redirects. PHP backend: create-checkout, confirm-payment, validate, webhook endpoints. SQLite database for licenses/commissions. Self-service reseller portal with commission tracking. NSIS /RESELLER=CODE parameter writes reseller.json. Expired overlay locks GUI to activation-only screen. Trial countdown banner on dashboard.",
+  "version": "2.0.67",
+  "sha256": "sha256:1a63d5ada976fb95e834ad856fafc91981086aa982b663474aa10e4bcc14922a",
+  "downloadUrl": "https://api.github.com/repos/remoteshield/releases/releases/assets/469019205",
+  "changeLog": "2.0.0 | 2026-07-07 | Updated threat coverage to 288 remote-access tools (v1.8.0 database), including recently-observed scam tooling. Also includes a redesigned renewal screen, more resilient licensing that keeps protection active during connectivity gaps, and detection reliability fixes.",
   "minAppVersion": "1.5.0",
-  "releaseDate": "2026-04-04"
+  "releaseDate": "2026-07-07"
 }
