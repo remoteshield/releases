@@ -1,8 +1,8 @@
 {
   "version": "2.0.67",
-  "sha256": "1A63D5ADA976FB95E834AD856FAFC91981086AA982B663474AA10E4BCC14922A",
+  "sha256": "1a63d5ada976fb95e834ad856fafc91981086aa982b663474aa10e4bcc14922a",
   "downloadUrl": "https://api.github.com/repos/remoteshield/releases/releases/assets/469019205",
-  "changeLog": "2.0.0 | 2026-07-07 | Updated threat coverage to 288 remote-access tools (v1.8.0 database), including recently-observed scam tooling. Also includes a redesigned renewal screen, more resilient licensing that keeps protection active during connectivity gaps, and detection reliability fixes.",
+  "changeLog": "2.0.67 | 2026-07-07 | Updated threat coverage to 288 remote-access tools (v1.8.0 database), including recently-observed scam tooling. Also includes a redesigned renewal screen, more resilient licensing that keeps protection active during connectivity gaps, and detection reliability fixes.",
   "minAppVersion": "1.5.0",
   "releaseDate": "2026-07-07"
 }
