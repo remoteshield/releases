@@ -1,8 +1,8 @@
 {
-  "version": "2.0.67",
-  "sha256": "1a63d5ada976fb95e834ad856fafc91981086aa982b663474aa10e4bcc14922a",
-  "downloadUrl": "https://github.com/remoteshield/releases/releases/download/v2.0.67/RemoteShield_2.0.67_Setup.exe",
-  "changeLog": "2.0.67 | 2026-07-07 | Updated threat coverage to 288 remote-access tools (v1.8.0 database), including recently-observed scam tooling. Also includes a redesigned renewal screen, more resilient licensing that keeps protection active during connectivity gaps, and detection reliability fixes.",
+  "version": "2.0.73",
+  "sha256": "91ee6b3786d9e47bae68b533f43c2f0972dcfe992f222589b80131f2d55db4f1",
+  "downloadUrl": "https://github.com/remoteshield/releases/releases/download/v2.0.67/RemoteShield_2.0.73_Setup.exe",
+  "changeLog": "2.0.73 | 2026-07-11 | Updated threat coverage to 288 remote-access tools (v1.8.0 database), including recently-observed scam tooling. Also includes a redesigned renewal screen, more resilient licensing that keeps protection active during connectivity gaps, and detection reliability fixes. Real-world logs confirming multiple protection mechanisms, URL bug: the API asset endpoint returned a ~300-byte JSON blob, two update-system hardening improvements that eliminate misleading hash failures, two guards added to DownloadAppUpdateAsync",
   "minAppVersion": "1.5.0",
-  "releaseDate": "2026-07-07"
+  "releaseDate": "2026-07-11"
 }
