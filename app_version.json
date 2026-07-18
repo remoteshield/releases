@@ -2,7 +2,7 @@
   "version": "2.0.74",
   "sha256": "c711294380d1c7f82a8e86a55834990184beca1f13a531e1f09a680d42cc7938",
   "downloadUrl": "https://github.com/remoteshield/releases/releases/download/v2.0.74/RemoteShield_2.0.74_Setup.exe",
-  "changeLog": "2.0.74 | 2026-07-18 | Updated threat db to 288 single source of truth to avoid database drift",
+  "changeLog": "2.0.74 | 2026-07-18 | Updated threat db to single source of truth to avoid database drift",
   "minAppVersion": "1.5.0",
   "releaseDate": "2026-07-18"
 }
