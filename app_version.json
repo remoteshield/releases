@@ -1,8 +1,8 @@
 {
-  "version": "2.1.1",
-  "sha256": "b1939ebe42e3cede04e511968e71bce95c0e282b08e459132da48ce3a51dc193",
-  "downloadUrl": "https://github.com/remoteshield/releases/releases/download/v2.1.1/RemoteShield_2.1.1_Setup.exe",
-  "changeLog": "2.1.1 | 2026-07-18 | v2.1.1 closed a major RemotePC family coverage gap by adding 10 missing components, validated persistent-threat L1 behaviour, and raised the website threat count to 300+; future additions must use full sandbox process lists, also fixed broken website scripts/counts and a security-critical startup-removal bug caused by GUI privilege limitations, with improved uninstall messaging and a reinforced rule that privileged writes must go through the service.",
+  "version": "2.1.31",
+  "sha256": "a5f5a94ce0fffcc600f7730b43e9d6922a970a358e7ed0efc08e3dcc5e895b98",
+  "downloadUrl": "https://github.com/remoteshield/releases/releases/download/v2.1.31/RemoteShield_2.1.31_Setup.exe",
+  "changeLog": "2.1.31 | 2026-08-30 | Signed build, in-shop retail licensing, regional pricing fixes, protection reliability.",
   "minAppVersion": "1.5.0",
-  "releaseDate": "2026-08-8"
+  "releaseDate": "2026-08-30"
 }
