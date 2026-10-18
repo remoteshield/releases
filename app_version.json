@@ -1,8 +1,8 @@
 {
-  "version": "2.1.31",
-  "sha256": "a5f5a94ce0fffcc600f7730b43e9d6922a970a358e7ed0efc08e3dcc5e895b98",
-  "downloadUrl": "https://github.com/remoteshield/releases/releases/download/v2.1.31/RemoteShield_2.1.31_Setup.exe",
-  "changeLog": "2.1.31 | 2026-08-30 | Signed build, in-shop retail licensing, regional pricing fixes, protection reliability.",
-  "minAppVersion": "1.5.0",
-  "releaseDate": "2026-08-30"
+    "version":  "2.5.0",
+    "sha256":  "5f5d4aee5156524967ee8863d4cb4035beed3f8689bb44538bad3a3a7c7f7141",
+    "downloadUrl":  "https://github.com/remoteshield/releases/releases/download/v2.5.0/RemoteShield_2.5.0_Setup.exe",
+    "changeLog":  "Stronger protection: RemoteShield now stops remote-access programs that were already running, alerts you if an allowed program starts (with a STOP IT NOW button), and asks before protection is paused. A clearer renewal screen, an easier way to enter an activation code, and many reliability fixes.",
+    "releaseDate":  "2026-10-18",
+    "mandatory":  false
 }
